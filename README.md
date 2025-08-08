@@ -14,4 +14,4 @@ I've completed 10 advanced data science projects in areas such as:
 **Tech Stack:** Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, XGBoost, SQL, Jupyter, Git
 
 **Explore My Projects:**  
-Full Financial Data Science Portfolio](https://github.com/gprabakar/Machine-Learning-for-Financial-Analysis)
+[Full Financial Data Science Portfolio](https://github.com/gprabakar/Machine-Learning-for-Financial-Analysis)
